@@ -123,3 +123,12 @@ This project is built for academic and professional portfolio purposes only.
 
 
 * Tools Delivered: ETL pipelines, curated datasets, Power BI dashboards
+<img width="1317" height="591" alt="image" src="https://github.com/user-attachments/assets/739a58c1-1a2a-4c43-bcf7-0ca4a22db814" />
+<img width="1289" height="566" alt="image" src="https://github.com/user-attachments/assets/6c8e2ed3-4e30-4fae-ab10-ab6073b42045" />
+<img width="1294" height="646" alt="image" src="https://github.com/user-attachments/assets/fb1e3abb-0cf1-453e-ae85-743ace3a8531" />
+<img width="1359" height="648" alt="image" src="https://github.com/user-attachments/assets/7a7f68f1-aaed-41a6-ae0c-d82b3b65b983" />
+<img width="1281" height="660" alt="image" src="https://github.com/user-attachments/assets/4fe37a41-2fe1-47ba-87a3-cbe165dc2f0f" />
+
+
+
+
